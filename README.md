@@ -7,6 +7,6 @@ O objetivo desse repositório e aprender sobre as ferramentas para compartilhame
 
 [Mas se o seu obejtivo é saber mais sobre o Jogo do Número do Secreto...](https://github.com/Fabio-Rodrigues-Dev/jogo-do-numero-secreto)
 
-## Autor:
+## Autor: Fábio Rodrigues
 
 ![foto_perfil2](https://github.com/Fabio-Rodrigues-Dev/jogo-do-numero-secreto/assets/158431227/877304a6-d316-44c3-abc0-04955d9e0c2c)
